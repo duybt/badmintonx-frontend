@@ -1,1 +1,0 @@
-# badmintonx-frontend
