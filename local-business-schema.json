@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "@id": "https://dongcaulong.fun/#localbusiness",
+  "name": "Động cầu lông",
+  "alternateName": ["Dong cau long", "Câu lạc bộ cầu lông Động"],
+  "description": "Câu lạc bộ cầu lông hiện đại tại Nơ Trang Long, Bình Thạnh, TP. Hồ Chí Minh",
+  "url": "https://dongcaulong.fun",
+  "telephone": "Contact via TikTok @nhungnguyen0475",
+  "priceRange": "$$",
+  "image": ["https://dongcaulong.fun/badminton.png"],
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://dongcaulong.fun/badminton.png"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Nơ Trang Long",
+    "addressLocality": "Bình Thạnh",
+    "addressRegion": "TP. Hồ Chí Minh",
+    "postalCode": "70000",
+    "addressCountry": "VN"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 10.8031,
+    "longitude": 106.6867
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Wednesday", "Friday"],
+      "opens": "20:00",
+      "closes": "22:00"
+    }
+  ],
+  "sameAs": [
+    "https://www.tiktok.com/@nhungnguyen0475",
+    "https://www.facebook.com/nhung.nguyen.921901"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Nhung Nguyen",
+    "sameAs": [
+      "https://www.tiktok.com/@nhungnguyen0475",
+      "https://www.facebook.com/nhung.nguyen.921901"
+    ]
+  },
+  "knowsAbout": [
+    "Badminton",
+    "Cầu lông",
+    "Thể thao",
+    "Câu lạc bộ thể thao",
+    "Đăng ký online",
+    "Quản lý buổi chơi"
+  ],
+  "serviceArea": {
+    "@type": "Place",
+    "name": "TP. Hồ Chí Minh, Việt Nam"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Dịch vụ cầu lông",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Tham gia câu lạc bộ cầu lông",
+          "description": "Dịch vụ chơi cầu lông với hệ thống đăng ký online hiện đại"
+        }
+      }
+    ]
+  }
+}
